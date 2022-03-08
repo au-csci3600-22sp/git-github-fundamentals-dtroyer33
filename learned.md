@@ -9,4 +9,4 @@ I had heard of them, but didn't know what they were until just now. I have had t
 
 # VS Code Integration
 
-I have used Git with VS Code before, but I could never get it to work quite right except for a single time, when it accidently worked.
+I have used Git with VS Code before, but I could never get it to work quite right except for a single time, when it accidently worked...
